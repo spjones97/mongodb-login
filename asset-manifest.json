@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spjones97/mongodb-login/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/spjones97/mongodb-login/static/js/main.48d0a5b3.chunk.js",
+    "main.js.map": "/spjones97/mongodb-login/static/js/main.48d0a5b3.chunk.js.map",
+    "runtime-main.js": "/spjones97/mongodb-login/static/js/runtime-main.a17f101a.js",
+    "runtime-main.js.map": "/spjones97/mongodb-login/static/js/runtime-main.a17f101a.js.map",
+    "static/js/2.d73b164e.chunk.js": "/spjones97/mongodb-login/static/js/2.d73b164e.chunk.js",
+    "static/js/2.d73b164e.chunk.js.map": "/spjones97/mongodb-login/static/js/2.d73b164e.chunk.js.map",
+    "static/js/3.274c4cba.chunk.js": "/spjones97/mongodb-login/static/js/3.274c4cba.chunk.js",
+    "static/js/3.274c4cba.chunk.js.map": "/spjones97/mongodb-login/static/js/3.274c4cba.chunk.js.map",
+    "index.html": "/spjones97/mongodb-login/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/spjones97/mongodb-login/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d73b164e.chunk.js.LICENSE.txt": "/spjones97/mongodb-login/static/js/2.d73b164e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a17f101a.js",
+    "static/js/2.d73b164e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.48d0a5b3.chunk.js"
+  ]
+}
